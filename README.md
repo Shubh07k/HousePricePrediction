@@ -2,7 +2,7 @@
 
 Housing Market is among most volatile markets. Various parameters affect the pricing of a unit. Due to which many genuine but also bogus factors can be brought in to manipulate prices . Aim here is to predict pricing considering various genuine factors while learning and implementing statical algorithms, Machine Learning, Data Analytics using Python , Pyspark, MongoDB, Power BI and to deploy it using User interface base models in Heroku Cloud
 
-## ML-Notebook: :man_technologist:
+## ML-Notebook :man_technologist:
   We have performed different Regression models to predict the price of Houses based on Featured selected. XGBoost achieved R2 score of *0.8882* which is better than other Machine Learning models
   1. Linear Regression
   2. Lasso Regression
@@ -13,7 +13,7 @@ Housing Market is among most volatile markets. Various parameters affect the pri
   7. KNN Regression
   8. XGBoost Regression
   
-## Visualization: :man_teacher:
+## Visualization :man_teacher:
   Data Visualization is graphical representation of information and data by using tools like charts,graphs,maps.This tools provide an accessible way to see and understand trends,patterns in data.
   We have used PowerBI for Visualization
 
