@@ -13,7 +13,7 @@ Housing Market is among most volatile markets. Various parameters affect the pri
   7. KNN Regression
   8. XGBoost Regression
   
-# Visualization:
+## Visualization:
   Data Visualization is graphical representation of information and data by using tools like charts,graphs,maps.This tools provide an accessible way to see and understand trends,patterns in data.
   We have used PowerBI for Visualization
 
