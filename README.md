@@ -4,14 +4,14 @@ Housing Market is among most volatile markets. Various parameters affect the pri
 
 ML-Notebook
   We have performed different Regression models to predict the price of Houses based on Featured selecte. XGBoost achieved R2 score of 0.8882 which is better than other Machine Learning models
-"/" Linear Regression
-  Lasso Regression
-  Ridge Regression
-  Elastic Net Regression
-  DecisionTree Regression
-  RandomForest Regression
-  KNN Regression
-  XGBoost Regression
+  1. Linear Regression
+  2. Lasso Regression
+  3. Ridge Regression
+  4. Elastic Net Regression
+  5. DecisionTree Regression
+  6. RandomForest Regression
+  7. KNN Regression
+  8. XGBoost Regression
   
 Visualization
   Data Visualization is graphical representation of information and data by using tools like charts,graphs,maps.This tools provide an accessible way to see and understand trends,patterns in data.
