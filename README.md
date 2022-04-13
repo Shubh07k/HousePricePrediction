@@ -16,6 +16,7 @@ Housing Market is among most volatile markets. Various parameters affect the pri
 ## Visualization :man_teacher:
   Data Visualization is graphical representation of information and data by using tools like charts,graphs,maps.This tools provide an accessible way to see and understand trends,patterns in data.
   We have used PowerBI for Visualization
+  connect on email shub2020k@gmail.com
 
 ### we have deployed our project on Heroku cloud : 
 https://housepricepredictor01.herokuapp.com/
